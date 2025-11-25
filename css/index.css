@@ -58,6 +58,7 @@ body{
     left: 50%;
     transform: translate(-50%,-50%);
     color: white;
+    font-family: 'Dancing Script', cursive;
     font-size: 55px;
     -webkit-transform: translate(-50%,-50%);
     -moz-transform: translate(-50%,-50%);
@@ -148,9 +149,9 @@ body{
     background-color: orange;
     color: white;
     font-size: 25px;
-    border-radius: 20px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
+    border-radius: 35px;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    -ms-border-radius: 35px;
+    -o-border-radius: 35px;
 }
